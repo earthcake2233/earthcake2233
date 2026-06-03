@@ -10,6 +10,6 @@
 
 </div>
 
-### 🎮 Lover of Maimai DX (乌蒙地插吃)
-
-### 🚀 Golang 全栈开发者
+- Lover of Maimai DX (乌蒙地插吃)
+- Fullstack developer
+- Lover of Dress
